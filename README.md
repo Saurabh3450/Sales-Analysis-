@@ -1,4 +1,4 @@
-# ELECTRICAL VEHICLE ANALYSIS
+# SALES ANALYSIS
 
 
 ## BUSINESS REQUIREMENT
@@ -8,23 +8,23 @@ To monitor overall business performance, the dashboard tracks total sales, profi
 ### Charts and KPIs
     1. Total Sales (Line Chart)
    - Displays total sales over the years 2021 to 2024.
-   - Notable peak in sales in 2023 (94M) and a decline in 2024 (40M).
+   - Notable peak in sales in 2023 and a decline in 2024 .
 
     2. Total Profit (Bar Chart)
    - Shows annual profit from 2022 to 2024.
-   - Highest profit in 2023 (17.9K) and a significant drop in 2024 (7.7K).
+   - Highest profit in 2023 and a significant drop in 2024.
 
     3. Total Quantity Sold (Bar Chart)
    - Illustrates the quantity of products sold in different regions (West, North, South, East).
-   - West region has the highest quantity sold (2.9M), while the East has the lowest (1.4M).
+   - West region has the highest quantity sold, while the East has the lowest.
 
     4. Products Priorities (Pie Chart)
    - Distribution of product priorities (Medium, High, Critical, Low).
-   - Majority of products are of Medium priority (26K), with Low priority being the least (2K).
+   - Majority of products are of Medium priority, with Low priority being the least.
 
     5. Total Products Sold (Donut Chart)
    - Breakdown of total products sold by year (2021-2024).
-   - Highest sales in 2023 (25.25%) and lowest in 2024 (16.92%).
+   - Highest sales in 2023 and lowest in 2024.
 
 ### Key Performance Indicators (KPIs)
     1. Active Warehouses: Indicates the number of active warehouses contributing to sales and distribution.
