@@ -43,4 +43,4 @@ To monitor overall business performance, the dashboard tracks total sales, profi
 
 # Report Snapshot (Power BI)
 
-![Sales Dashboard Image](https://github.com/user-attachments/assets/ec3faf2a-d556-40fb-a869-17f8bfe40d2f)
+![Sales Dashboard Image](https://github.com/user-attachments/assets/783b36f4-fd37-4957-8175-109cec431b6f)
